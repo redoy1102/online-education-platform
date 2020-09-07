@@ -1,0 +1,14 @@
+.allCourse{
+    display: flex;
+    border-bottom: 1px solid grey;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.course-details{
+    padding-left: 30px;
+}
+.enrollButton{
+    cursor:pointer;
+    background-color:goldenrod;
+    border-radius: 5px;
+}

@@ -1,0 +1,14 @@
+.main-ui{
+    display: flex;
+}
+
+.course-info{
+    width: 70%;
+    margin-top: 10px;
+    border-bottom: 1px solid grey;
+    padding-bottom: 10px;
+    border-right: 1px solid grey;
+}
+.course-cart{
+    padding-left: 10px;
+}
